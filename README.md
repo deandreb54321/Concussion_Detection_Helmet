@@ -1,2 +1,4 @@
-# Concussion_Detection_Helmet
-Source code for the concussion detection helmet project
+# Concussion Detection Helmet
+![20191104_191543](https://user-images.githubusercontent.com/49622234/68168703-a6e7bd00-ff37-11e9-89a5-c277d1fb7ec2.jpg)
+
+The Concussion Detection Helmet is a diagnostic device used to detect concussions that occur from an accident. The helmet can detect concussions by continuously monitoring the acceleration of the helmet. If the acceleration is over a specific threshold, then it would warn the user of a potential brain injury. When this occurs, an LED changes from green to yellow and a buzzer starts beeping. In the event of a severe concussion, the light changes to red and the buzzer plays a low tone. The user and bystanders would be aware of the potential brain damage that the user may have received and the level of danger the user is in. This will allow the victim to immediately seek medical attention and prevent the concussion from going unnoticed or untreated.
